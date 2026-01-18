@@ -1,5 +1,18 @@
 # Hi, I'm David
 
+![Location](https://img.shields.io/badge/📍-Bern,_Switzerland-red?style=flat-square)
+![Employer](https://img.shields.io/badge/🏛️-Swiss_Federal_Administration-darkred?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-GIS_|_BIM_|_Data-blue?style=flat-square)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![IFC](https://img.shields.io/badge/IFC-BIM-green?style=flat-square)
+
+![GitHub followers](https://img.shields.io/github/followers/davras5?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=davras5&color=blue&style=flat-square)
+
 **Data & GIS Specialist** at the [Swiss Federal Office for Buildings and Logistics (BBL)](https://www.bbl.admin.ch/de) in Bern, designing data architectures and integration solutions for Swiss federal real estate management.
 
 I build tools that bridge GIS, BIM, and enterprise data management — from metadata standards to interactive visualizations. Most of my projects follow a no-framework philosophy: vanilla JavaScript, pure HTML/CSS, and a focus on Swiss data sovereignty.
