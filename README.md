@@ -33,7 +33,7 @@ I build tools that bridge GIS, BIM, and enterprise data management — from meta
 
 ### Other
 
-- [Glimpse](https://github.com/davras5/Glimpse) — Web application project.
+- [Glimpse](https://github.com/davras5/Glimpse) — Single-file photo gallery viewer with folder navigation, thumbnail strip, keyboard shortcuts, and slideshow playback. Zero dependencies, fully offline-capable.
 
 ---
 
