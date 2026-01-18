@@ -9,6 +9,10 @@ I build tools that bridge GIS, BIM, and enterprise data management — from meta
 ![Employer](https://img.shields.io/badge/🏛️-Swiss_Federal_Administration-darkred?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-GIS_|_BIM_|_Data-blue?style=flat-square)
 
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-6C3483?style=flat-square&logo=archlinux&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![IFC](https://img.shields.io/badge/IFC-BIM-green?style=flat-square)
 
