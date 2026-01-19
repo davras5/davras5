@@ -2,7 +2,7 @@
 
 **Data & GIS Specialist** at the [Swiss Federal Office for Buildings and Logistics (BBL)](https://www.bbl.admin.ch/de) in Bern, designing data architectures and integration solutions for Swiss federal real estate management.
 
-I build tools that bridge GIS, BIM, and enterprise data management - from metadata standards to interactive visualizations. Most of my projects follow a no-framework philosophy: vanilla JavaScript and a focus on Swiss data sovereignty.
+I build solutions that bridge enterprise data management, GIS and BIM - from metadata standards to interactive visualizations. Most of my projects follow a no-framework philosophy: vanilla JavaScript and a focus on Swiss data sovereignty.
 
 
 ![Location](https://img.shields.io/badge/📍-Bern,_Switzerland-red?style=flat-square)
