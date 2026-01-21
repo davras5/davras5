@@ -34,6 +34,7 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 
 - [OpenBuildings](https://github.com/davras5/OpenBuildings) - Swiss building data made open, harmonized, and reusable. Aggregates official Swiss datasets into a consistent reference layer for analysis, integration, and practical use.
 - [meta-bv](https://github.com/davras5/meta-bv) - Data catalog prototype for the Swiss Federal Office of Buildings and Logistics for documenting business objects and metadata according to DCAT-AP CH.
+- [meta-atlas](https://github.com/davras5/meta-atlas) - Metadata catalog prototype for documenting and navigating enterprise data assets across TOGAF architecture layers, with hierarchical navigation, full-text search, and multilingual support.
 
 ### Project Management & Procurement
 
