@@ -20,21 +20,27 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 
 ### Real Estate & Portfolio Management
 
-- [gis-immo](https://github.com/davras5/gis-immo) - Interactive GIS web application for visualizing and managing the Swiss federal real estate portfolio. Features map, list, and gallery views with Mapbox GL JS.
-- [transaction-immo](https://github.com/davras5/transaction-immo) - Property sales platform for Swiss federal real estate. Features interactive Mapbox maps, advanced filtering, gallery/list/map views, and detailed property information.
+- [property-inventory](https://github.com/bbl-dres/property-inventory) - Interactive GIS web application for visualizing and managing the Swiss federal real estate portfolio. Features map, list, and gallery views with Mapbox GL JS.
+- [transaction-immo](https://github.com/bbl-dres/transaction-immo) - Property sales platform for Swiss federal real estate. Features interactive Mapbox maps, advanced filtering, gallery/list/map views, and detailed property information.
 - [competition-immo](https://github.com/davras5/competition-immo) - Dashboard for managing and evaluating architecture competitions. Compare building project variants across sustainability criteria with interactive maps and multi-dimensional evaluation.
+- [workspace-management](https://github.com/bbl-dres/workspace-management) - Single-page application prototype for managing workspace infrastructure, furniture ordering, office planning, and building occupancy.
+- [green-inventory](https://github.com/bbl-dres/green-inventory) - Interactive GIS web application for urban green space inventory, maintenance planning, and field survey operations with map interfaces.
+- [geo-check](https://github.com/bbl-dres/geo-check) - Prototype web application for validating and managing property data with kanban boards, data quality rules, and interactive maps.
 
 ### BIM & Construction
 
-- [kbob-fdk](https://github.com/davras5/kbob-fdk) - Web mockup for the KBOB BIM technical data catalog featuring classifications, LOI attributes, and IFC mappings for building elements.
+- [kbob-fdk](https://github.com/bbl-dres/kbob-fdk) - Web mockup for the KBOB BIM technical data catalog featuring classifications, LOI attributes, and IFC mappings for building elements.
 - [ifc-viewer](https://github.com/davras5/ifc-viewer) - A lightweight, zero-install BIM viewer for IFC files. Load models directly in your browser, inspect element properties, and export building data to Excel.
 - [plan-check](https://github.com/davras5/plan-check) - A validation tool for floor plan drawings. Upload, check, and ensure data quality for CAD/DWG files.
 
 ### Open Data & Geodata
 
 - [OpenBuildings](https://github.com/davras5/OpenBuildings) - Swiss building data made open, harmonized, and reusable. Aggregates official Swiss datasets into a consistent reference layer for analysis, integration, and practical use.
-- [meta-bv](https://github.com/davras5/meta-bv) - Data catalog prototype for the Swiss Federal Office of Buildings and Logistics for documenting business objects and metadata according to DCAT-AP CH.
+- [data-catalog-immo](https://github.com/bbl-dres/data-catalog-immo) - Data catalog prototype for the Swiss Federal Office of Buildings and Logistics for documenting business objects and metadata according to DCAT-AP CH.
 - [meta-atlas](https://github.com/davras5/meta-atlas) - Metadata catalog prototype for documenting and navigating enterprise data assets across TOGAF architecture layers, with hierarchical navigation, full-text search, and multilingual support.
+- [ea-immo](https://github.com/bbl-dres/ea-immo) - Conceptual data model for real estate management defining core business objects in a standardized, system-independent format aligned with ISO, RICS, SIA, and KBOB standards.
+- [data-lineage](https://github.com/davras5/data-lineage) - Interactive data lineage viewer for tracking and visualizing data flows and transformations across systems.
+- [workflows](https://github.com/davras5/workflows) - Data validation, enrichment, and conversion workflows for building and facility management data. Features EGID/GWR verification against Switzerland's official property register.
 
 ### Project Management & Procurement
 
@@ -45,6 +51,8 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 ### Other
 
 - [Glimpse](https://github.com/davras5/Glimpse) - Single-file photo gallery viewer with folder navigation, thumbnail strip, keyboard shortcuts, and slideshow playback. Zero dependencies, fully offline-capable.
+- [simple-chart](https://github.com/davras5/simple-chart) - Lightweight browser-based tool for creating ER diagrams and flowcharts with vanilla JavaScript and Mermaid. Supports free-text names with spaces, umlauts, and special characters.
+- [digital-twin-rec](https://github.com/davras5/digital-twin-rec) - Digital twin demo integrating real-time face recognition with an interactive AI avatar in a split-screen browser interface.
 
 ---
 
