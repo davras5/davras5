@@ -24,6 +24,7 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 - [transaction-immo](https://github.com/bbl-dres/transaction-immo) - Property sales platform for Swiss federal real estate. Features interactive Mapbox maps, advanced filtering, gallery/list/map views, and detailed property information.
 - [competition-immo](https://github.com/davras5/competition-immo) - Dashboard for managing and evaluating architecture competitions. Compare building project variants across sustainability criteria with interactive maps and multi-dimensional evaluation.
 - [workspace-management](https://github.com/bbl-dres/workspace-management) - Single-page application prototype for managing workspace infrastructure, furniture ordering, office planning, and building occupancy.
+- [kennwerte-db](https://github.com/bbl-dres/kennwerte-db) - Construction cost and FM benchmarks for Swiss federal building typologies.
 - [green-inventory](https://github.com/bbl-dres/green-inventory) - Interactive GIS web application for urban green space inventory, maintenance planning, and field survey operations with map interfaces.
 - [geo-check](https://github.com/bbl-dres/geo-check) - Prototype web application for validating and managing property data with kanban boards, data quality rules, and interactive maps.
 
@@ -32,6 +33,7 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 - [kbob-fdk](https://github.com/bbl-dres/kbob-fdk) - Web mockup for the KBOB BIM technical data catalog featuring classifications, LOI attributes, and IFC mappings for building elements.
 - [ifc-viewer](https://github.com/davras5/ifc-viewer) - A lightweight, zero-install BIM viewer for IFC files. Load models directly in your browser, inspect element properties, and export building data to Excel.
 - [plan-check](https://github.com/bbl-dres/plan-check) - A validation tool for floor plan drawings. Upload, check, and ensure data quality for CAD/DWG files against Swiss Federal BBL CAD standards.
+- [open-docs](https://github.com/davras5/open-docs) - Lightweight, open-source document management for construction and engineering teams.
 
 ### Open Data & Geodata
 
@@ -39,10 +41,8 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 - [area-estimator](https://github.com/bbl-dres/area-estimator) - Building volume and gross floor area estimation using Swiss elevation models (swissALTI3D + swissSURFACE3D) and cadastral footprints. Web app with 3D visualization and Python CLI for batch processing.
 - [landcover-survey](https://github.com/bbl-dres/landcover-survey) - Land cover area aggregation per Swiss cadastral parcel from official survey data. Clips land cover polygons to parcel edges and calculates area distributions across 26 classifications.
 - [data-catalog-immo](https://github.com/bbl-dres/data-catalog-immo) - Data catalog prototype for the Swiss Federal Office of Buildings and Logistics for documenting business objects and metadata according to DCAT-AP CH.
-- [meta-bv](https://github.com/davras5/meta-bv) - Data catalog prototype for documenting business objects and datasets according to the DCAT-AP CH v3.0 metadata standard, with full-text search and multi-criterion filtering.
 - [meta-atlas](https://github.com/davras5/meta-atlas) - Metadata catalog prototype for documenting and navigating enterprise data assets across TOGAF architecture layers, with hierarchical navigation, full-text search, and multilingual support.
 - [ea-immo](https://github.com/bbl-dres/ea-immo) - Conceptual data model for real estate management defining core business objects in a standardized, system-independent format aligned with ISO, RICS, SIA, and KBOB standards.
-- [asset-hub](https://github.com/bbl-dres/asset-hub) - Open-source, API-first digital asset hub for federal-grade asset management.
 - [data-lineage](https://github.com/davras5/data-lineage) - Interactive data lineage viewer for tracking and visualizing data flows and transformations across systems.
 - [workflows](https://github.com/davras5/workflows) - Data validation, enrichment, and conversion workflows for building and facility management data. Features EGID/GWR verification against Switzerland's official property register.
 
