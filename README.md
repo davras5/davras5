@@ -41,10 +41,7 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 - [area-estimator](https://github.com/bbl-dres/area-estimator) - Building volume and gross floor area estimation using Swiss elevation models (swissALTI3D + swissSURFACE3D) and cadastral footprints. Web app with 3D visualization and Python CLI for batch processing.
 - [landcover-survey](https://github.com/bbl-dres/landcover-survey) - Land cover area aggregation per Swiss cadastral parcel from official survey data. Clips land cover polygons to parcel edges and calculates area distributions across 26 classifications.
 - [data-catalog-immo](https://github.com/bbl-dres/data-catalog-immo) - Data catalog prototype for the Swiss Federal Office of Buildings and Logistics for documenting business objects and metadata according to DCAT-AP CH.
-- [meta-atlas](https://github.com/davras5/meta-atlas) - Metadata catalog prototype for documenting and navigating enterprise data assets across TOGAF architecture layers, with hierarchical navigation, full-text search, and multilingual support.
 - [ea-immo](https://github.com/bbl-dres/ea-immo) - Conceptual data model for real estate management defining core business objects in a standardized, system-independent format aligned with ISO, RICS, SIA, and KBOB standards.
-- [data-lineage](https://github.com/davras5/data-lineage) - Interactive data lineage viewer for tracking and visualizing data flows and transformations across systems.
-- [workflows](https://github.com/davras5/workflows) - Data validation, enrichment, and conversion workflows for building and facility management data. Features EGID/GWR verification against Switzerland's official property register.
 
 ### Project Management & Procurement
 
@@ -59,7 +56,7 @@ I build solutions that bridge enterprise data management, GIS and BIM - from met
 ### Other
 
 - [Glimpse](https://github.com/davras5/Glimpse) - Single-file photo gallery viewer with folder navigation, thumbnail strip, keyboard shortcuts, and slideshow playback. Zero dependencies, fully offline-capable.
-- [simple-chart](https://github.com/davras5/simple-chart) - Lightweight browser-based tool for creating ER diagrams and flowcharts with vanilla JavaScript and Mermaid. Supports free-text names with spaces, umlauts, and special characters.
+- [mob-arena](https://github.com/davras5/mob-arena) - Web-based arena game built with vanilla JavaScript, CSS, and HTML.
 - [digital-twin-rec](https://github.com/davras5/digital-twin-rec) - Digital twin demo integrating real-time face recognition with an interactive AI avatar in a split-screen browser interface.
 
 ---
